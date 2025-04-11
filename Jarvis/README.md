@@ -42,39 +42,39 @@
 
 ### 👉 1. Greet the user
 
-<img src="Picture1.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture1.png" alt="">
 
 ### 👉 2. Tell current time & date
 
-<img src="Picture2.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture2.png" alt="">
 
 ### 👉 3. Search something on Wikipedia
 
-<img src="Picture3.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture3.png" alt="">
 
 ### 👉 4. Open any Website
 
-<img src="Picture4.png" width="480"/> <img src="Picture5.png" width="480"/>
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture4.png" width="480"/> <img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture5.png" width="480"/>
 
 ### 👉 5. Plays Music
 
-<img src="Picture6.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture6.png" alt="">
 
 ### 👉 6. Can search anything on Google
 
-<img src="Picture7.png" width="480"/> <img src="Picture8.png" width="480"/> 
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture7.png" width="480"/> <img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture8.png" width="480"/> 
 
 ### 👉 7. Take important note in text file
 
-<img src="Picture9.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture9.png" alt="">
 
 ### 👉 8. Take Screenshots and save it with custom filename
 
-<img src="Picture10.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture10.png" alt="">
 
 ### 👉 9. Finally make Assistant offline
 
-<img src="Picture11.png" alt="">
+<img src="https://github.com/VIKASRAPARTHI/Jarvis-Voice-Assistant/blob/main/Images/Picture11.png" alt="">
 
 # 📌WHY TO USE JARVIS?
 
