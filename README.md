@@ -40,7 +40,7 @@ Python 3.6+
    - Clone the forked repository to your local machine:
      ```bash
      git clone <URL>
-     cd Jarvis-Desktop-Voice-Assistant
+     cd Jarvis-Voice-Assistant
      ```
 
 3.  **Create and Activate a Virtual Environment**
